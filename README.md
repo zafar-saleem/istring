@@ -9,6 +9,10 @@ In order to run this project in the terminal successfully, please follow the ste
     6. Run `istring alternate "hello world".
     7. Run `istring csv "hello world".
 
+## Running test
+
+		1. To run test run `npm run test` command.
+
 ## Technologies
 Below is the tech stack I used in this project. Please follow the getting started section in order to make this project run.
 
